@@ -3,7 +3,7 @@
 ## prep
 - laptop (plug in to power?)
 - Airpods?
-- water 
+- water
 - iPad with course notes
 
 
@@ -35,4 +35,4 @@
 
 ## Q&A
 
-
+adding some text instead of bootstrap
